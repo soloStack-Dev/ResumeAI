@@ -103,8 +103,10 @@ JWT Authentication
   🐳 DevOps:
       Docker,GitHub
 
-Project_Information:
-|[](Ai%20Resume%20&%20Job%20Description%20Analyzer%20%E2%80%93%20Project%20Documentation.pdf])|
+## 📄 Project Documentation
+
+[Click here to view the PDF](docs/AI_Resume_Job_Analyzer_Documentation.pdf)
+
 
 👨‍🎓 Author:
   Faleel
