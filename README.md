@@ -105,8 +105,6 @@ JWT Authentication
 
 ## 📄 Project Documentation
 
-[Click here to view the PDF](docs/AI_Resume_Job_Analyzer_Documentation.pdf)
-
 
 👨‍🎓 Author:
   Faleel
